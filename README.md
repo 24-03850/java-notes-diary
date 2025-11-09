@@ -105,11 +105,41 @@ Press Enter to continue...
 ```
 
 ##  ‧₊˚ ┊ Contributors
-| &nbsp; | Name | Duty/Responsibility |
-|--------|------|---------------------|
-| <img src="static/marieemoiselle.JPG" width="100" height="100"> | Fatima Marie P. Agdon, MSCS | Project Leader/ System Architect |
-| <img src="static/jeisquared.jpg" width="100" height="100"> | Jei Q. Pastrana, MSIT | File Handling Specialist |
-| <img src="static/renzmarrion.jpg" width="100" height="100"> | Renz Marrion O. Perez | Feature Developer |
+
+<table>
+<tr>
+    <th> &nbsp; </th>
+    <th> Name </th>
+    <th> Role </th>
+</tr>
+<tr>
+    <td><img src="static/marieemoiselle.JPG" width="100" height="100"> </td>
+    <td><strong>Fatima Marie P. Agdon, MSCS</strong> <br/>
+    <a href="https://github.com/marieemoiselle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="marieemoiselle's GitHub">
+        </a>
+    </td>
+    <td>Project Leader/System Architect</td>
+</tr>
+<tr>
+    <td><img src="static/jeisquared.jpg" width="100" height="100"> </td>
+    <td><strong>Jei Q. Pastrana, MSIT</strong> <br/>
+    <a href="https://github.com/jeisquaredd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="jeisquaredd's GitHub">
+        </a>
+    </td>
+    <td>File Handling Specialist</td>
+</tr>
+<tr>
+    <td><img src="static/renzmarrion.jpg" width="100" height="100"> </td>
+    <td><strong>Renz Marrion O. Perez</strong> <br/>
+    <a href="https://github.com/digZy030509" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="digZy030509's GitHub">
+        </a>
+    </td>
+    <td>Feature Developer</td>
+</tr>
+</table>
 
 ##  ‧₊˚ ┊ Acknowledgment
 We sincerely express our gratitude to our instructor for the guidance and support provided throughout the completion of this project. We also extend our appreciation to our classmates and peers for their cooperation and encouragement during the development process.
